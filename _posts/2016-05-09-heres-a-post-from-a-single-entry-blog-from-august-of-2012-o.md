@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Here's a post from a single entry blog from August of 2012 or 2013."
-datePublished: '2016-05-09T03:06:59.400Z'
-dateModified: '2016-05-09T03:06:57.665Z'
+datePublished: '2016-05-09T03:29:23.923Z'
+dateModified: '2016-05-09T03:15:16.666Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-09-heres-a-post-from-a-single-entry-blog-from-august-of-2012-o.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-09-heres-a-post-from-a-single-entry-blog-from-august-of-2012-o.md
 url: heres-a-post-from-a-single-entry-blog-from-august-of-2012-o/index.html
 _type: Article
 
