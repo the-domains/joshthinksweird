@@ -1,0 +1,28 @@
+name: joshthinksweird
+favicon: null
+layout_spectrum: 0.09211649373173714
+typography_spectrum: 0.7790496756788343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07102849869988859
+  lightness: 0.6040401619393378
+  saturation: 0.760205369675532
+  rhythmicContrast: 0.443645948311314
+purpose: []
