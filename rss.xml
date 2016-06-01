@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[It's Josh]]></title>
-        <description><![CDATA[It's Josh]]></description>
+        <title><![CDATA[Josh Thinks Weird]]></title>
+        <description><![CDATA[Josh Thinks Weird]]></description>
         <link>https://thegrid.ai/joshthinksweird/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 03:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 21:00:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joshthinksweird/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Here's a post from a single entry blog from August of 2012 or 2013.</p>]]></description>
-            <link>https://thegrid.ai/joshthinksweird/heres-a-post-from-a-single-entry-blog-from-august-of-2012-o/index.html</link>
-            <guid isPermaLink="false">dad86bdf-c788-453c-b0ff-60f73b9239ba</guid>
-            <pubDate>Mon, 09 May 2016 03:29:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cba63467-c2fb-4a05-8cc9-257dd7daa784.jpg">]]></description>
